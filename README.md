@@ -67,5 +67,5 @@ The proposed system provides an automated workflow:
 | Backend | Python (Flask) |
 | Database | PostgreSQL  |
 | Authentication | JWT (JSON Web Token) |
-| Data Processing | Pandas |
+| Data Processing | psycopg2 / SQLAlchemy |
 | Excel Automation | OpenPyXL |
