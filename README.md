@@ -5,8 +5,8 @@ This system automatically tracks purchases, updates inventory, and calculates re
 
 ## Problem Statement
 Small business owners often face challenges in:
-• Manually tracking expenses and profits
-• Managing inventory efficiently
+/n • Manually tracking expenses and profits
+/n • Managing inventory efficiently
 • Understanding real-time profit (daily basis)
 • Handling bulk purchase calculations
   Existing tools are often complex, require manual data entry, and do not provide accurate day-to-day profit insights.
