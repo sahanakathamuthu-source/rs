@@ -65,7 +65,7 @@ The proposed system provides an automated workflow:
 |------|-----------|
 | Frontend | React.js + Tailwind CSS |
 | Backend | Python (Flask) |
-| Database | SQLite |
+| Database | PostgreSQL  |
 | Authentication | JWT (JSON Web Token) |
 | Data Processing | Pandas |
 | Excel Automation | OpenPyXL |
