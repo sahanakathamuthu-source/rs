@@ -64,8 +64,9 @@ The proposed system provides an automated workflow:
 | Layer | Technology |
 |------|-----------|
 | Frontend | React.js + Tailwind CSS |
-| Backend | Python (Flask) |
+| Backend | Python (FastAPI) |
 | Database | PostgreSQL  |
 | Authentication | JWT (JSON Web Token) |
 | Data Processing | psycopg2 / SQLAlchemy |
 | Excel Automation | OpenPyXL |
+| API | RESTful APIs |
