@@ -71,4 +71,6 @@ The proposed system provides an automated workflow:
 | Excel Automation | OpenPyXL |
 | API | RESTful APIs |
 
+---
+## SYSTEM ARCHITECTURE
 <img width="3936" height="2036" alt="image" src="https://github.com/user-attachments/assets/bbf90571-19b8-4bed-b8b0-f0d300edd198" />
