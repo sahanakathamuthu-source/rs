@@ -67,7 +67,7 @@ The proposed system provides an automated workflow:
 | Backend | Python (FastAPI) |
 | Database | PostgreSQL  |
 | Authentication | JWT (JSON Web Token) |
-| Data Processing | psycopg2 / SQLAlchemy |
+| Data Processing | SQLAlchemy |
 | Excel Automation | OpenPyXL |
 | API | RESTful APIs |
 
